@@ -1,0 +1,31 @@
+.cash-app{
+  background-color: rgb(19, 230, 149);
+  color:white;
+  border-radius: 2rem;
+  padding:1rem;
+  text-align:center;
+  font-size: large ;
+  font-weight: bold;
+}
+
+.sec{
+  border:1px;
+  padding:0.5rem;
+}
+
+.note{
+  border-radius: 0.5rem;
+  background-color: rgb(19, 230, 149);
+  color:black;
+  max-width:50px;
+}
+.btn{
+  background-color: black;
+  color: rgb(19, 230, 149);
+}
+
+.box{
+  background-color: rgb(19, 230, 149);
+  color:black;
+  max-width:110px;
+}
